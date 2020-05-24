@@ -37,7 +37,7 @@
                         <Font size="18.0" />
                      </font>
                   </Label>
-                  <Label text="Timeout" GridPane.rowIndex="1">
+                  <Label text="Timeout(ms)" GridPane.rowIndex="1">
                      <font>
                         <Font size="18.0" />
                      </font>
